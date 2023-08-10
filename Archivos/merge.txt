@@ -1,0 +1,1 @@
+Git permitio el uso del comando commit para posteriormente modificar nuestro repositorio 
